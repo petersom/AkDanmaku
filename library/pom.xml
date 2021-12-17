@@ -23,7 +23,7 @@
     <name>AkDanmaku</name>
 	<description>Kuaishou</description>
 	<url>https://github.com/KwaiAppTeam/AkDanmaku</url>
-    <packaging>apklib</packaging>
+    <packaging>aar</packaging>
     <!--<packaging>aar</packaging>-->
 
     <properties>

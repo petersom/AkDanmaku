@@ -1,5 +1,7 @@
 apply from: rootProject.file('gradle/library.gradle')
 
+group='com.kuaishou'
+
 configurations { natives }
 
 android {
